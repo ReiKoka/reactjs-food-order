@@ -5,6 +5,7 @@ import CartProvider from "./store/CartProvider";
 import Cart from "./components/Cart/Cart";
 
 function App() {
+  // Test
   return (
     <CartProvider>
       <Cart />
